@@ -72,6 +72,7 @@ header h1 {
   display: grid;
   gap: 8px;
   padding: 20px 24px;
+  background-color: #334155;
 }
 
 .quiz-item dl dt {
